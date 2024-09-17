@@ -1,4 +1,4 @@
-REATE DATABASE quan_ly_sach;
+CREATE DATABASE quan_ly_sach;
 
 USE quan_ly_sach;
 
